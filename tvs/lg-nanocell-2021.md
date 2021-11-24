@@ -1,5 +1,6 @@
 ---
-title: Novas LG NanoCell 2021
+taxonomy:
+    category: "tvs"
 ---
 
 
