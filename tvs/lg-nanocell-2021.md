@@ -1,16 +1,5 @@
 ---
-post_title: 'Novas LG NanoCell 2021'
-post_name: 'novas lg nanocell 2021'
-post_date: '2021-11-23 23:21:26'
-published: true
-tags:
-    - tv
-    - lg
-    - smart-tv
-    - 4k
-    - 8k
-categories:
-    - tvs
+title: Novas LG NanoCell 2021
 ---
 
 A LG atualizou a sua linha de televisores NanoCell e trouxe diversas atualizações tecnológicas, além de reclassificar o nome dos modelos. Os televisores NanoCell possuem Nanopartículas aplicadas ao painel de LCD, que tornam as cores mais puras elevando a experiência de geração de imagens.
