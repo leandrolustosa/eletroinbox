@@ -4,13 +4,13 @@ menu_order: 1
 post_status: publish
 post_excerpt: Nessa categoria iremos falar tudo sobre TVs.
 taxonomy:
-    category:
-        - tvs
-    post_tag:
-        - tv
-        - smart-tv
-        - 4k
-        - 8k
+  category:
+    - tvs
+  post_tag:
+    - tv
+    - smart-tv
+    - 4k
+    - 8k
 ---
 
 Nessa categoria iremos falar tudo sobre TVs.
