@@ -16,7 +16,7 @@ taxonomy:
 
 A LG atualizou a sua linha de televisores NanoCell e trouxe diversas atualizações tecnológicas, além de reclassificar o nome dos modelos. Os televisores NanoCell possuem Nanopartículas aplicadas ao painel de LCD, que tornam as cores mais puras elevando a experiência de geração de imagens.
 
-Diferentemente de 2020 a LG resolveu reclassificar o nome dos modelos, segue abaixo duas tabelas comparativas, dos nomes adotados em 2020 para os adotados em 2021:
+Para essa nova linha a LG resolveu reclassificar o nome dos modelos, segue abaixo duas tabelas comparativas, dos nomes adotados em 2020 para os adotados em 2021:
 
 ### Modelos 4K
 
